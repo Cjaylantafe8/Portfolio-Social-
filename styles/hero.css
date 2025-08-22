@@ -1,0 +1,24 @@
+.hero-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px;
+    margin-top: 100px;
+}
+
+.hero-text{
+    font-size: 54px;
+    color: #333;
+}
+.first-text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #53BD45;
+}
+.second-text{
+    max-width: 600px;
+    font-weight: bold;
+}
+.text-green{
+    color: #53BD45;
+}
